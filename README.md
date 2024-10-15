@@ -109,14 +109,4 @@ Use the following commands to interact with the bot:
 - **/add_user <user_id>**: Manually adds a user to the premium users list.
 
 
-## Screenshots
 
-**General Users :**
-
-![App Screenshot](https://i.imgur.com/bLwf2s2.png)
-![App Screenshot](https://i.imgur.com/ycG0sog.png)
-![App Screenshot](https://i.imgur.com/iArvnY6.png)
-![App Screenshot](https://i.imgur.com/C6YqVAR.png)
-
-**Admin:**
-![App Screenshot](https://i.imgur.com/yXcgfpc.png)
