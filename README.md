@@ -58,8 +58,8 @@ The bot works smoothly across all Telegram platforms, including mobile, desktop,
 1. Clone the repository:
 
 ```bash
-  git clone <repository-url>
-  cd <project-directory>
+  git clone <https://github.com/adyanandi/streamtape_TelegramBot/tree/main>
+  cd <telegram_StreamtapeBot>
 
 ```
 2.  Install Dependencies:
