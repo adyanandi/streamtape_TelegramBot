@@ -58,8 +58,8 @@ The bot works smoothly across all Telegram platforms, including mobile, desktop,
 1. Clone the repository:
 
 ```bash
-  git clone <https://github.com/adyanandi/streamtape_TelegramBot/tree/main>
-  cd <telegram_StreamtapeBot>
+  git clone <repository-url>
+  cd <project-directory>
 
 ```
 2.  Install Dependencies:
@@ -107,6 +107,11 @@ Use the following commands to interact with the bot:
 - **/start**: Initiates the bot and provides a welcome message.
 - **/pay**: Requests the UPI ID for payment processing.
 - **/add_user <user_id>**: Manually adds a user to the premium users list.
+
+
+## Acknowledgement
+
+ - **Streamtape Scraper** is from [dr-pandit-69's Streamtape Video Downloader](https://github.com/dr-pandit-69/streamtape-video-downloader)
 
 
 
